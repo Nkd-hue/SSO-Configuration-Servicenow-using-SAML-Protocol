@@ -1,4 +1,4 @@
-# SSO-Configuration-Servicenow-using-SAML-Protocol
+
 # 🔐 IdP-Initiated SSO with SAML — Microsoft Entra ID + ServiceNow
 
 ## Overview
@@ -91,6 +91,14 @@ Default claims were retained:
 ✅ **Result:** IdP-initiated SSO confirmed — authenticated directly into ServiceNow with no additional credential prompt.
 
 ---
+### Screenshots
+<img width="1710" height="1107" alt="Screenshot 2026-05-06 at 1 53 16 PM" src="https://github.com/user-attachments/assets/4a21724f-8207-40a8-85ee-90728ecd5ce5" />
+
+<img width="1710" height="1107" alt="Screenshot 2026-05-06 at 4 59 44 PM" src="https://github.com/user-attachments/assets/ecb29c69-5617-4cf1-b4f4-44a6efe6c461" />
+
+<img width="1710" height="1107" alt="Screenshot 2026-05-06 at 5 03 48 PM" src="https://github.com/user-attachments/assets/5462c72b-f1ba-45df-8d92-35153ee428d7" />
+
+<img width="1710" height="1107" alt="Screenshot 2026-05-06 at 5 01 32 PM" src="https://github.com/user-attachments/assets/c69514be-2c82-4b3f-95fa-01ecdd7cfacd" />
 
 ## Key Concepts
 
